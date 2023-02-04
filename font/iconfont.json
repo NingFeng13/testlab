@@ -1,0 +1,156 @@
+{
+  "id": "3871018",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "33820270",
+      "name": "矜持",
+      "font_class": "jinchi",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "33820251",
+      "name": "亲亲",
+      "font_class": "qinqin",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "33820252",
+      "name": "哭闹",
+      "font_class": "kunao",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "33820253",
+      "name": "惊讶",
+      "font_class": "jingya",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "33820254",
+      "name": "电眼",
+      "font_class": "dianyan",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "33820255",
+      "name": "大笑",
+      "font_class": "daxiao",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "33820256",
+      "name": "流汗",
+      "font_class": "liuhan",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "33820257",
+      "name": "口罩",
+      "font_class": "kouzhao",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "33820258",
+      "name": "色",
+      "font_class": "se",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "33820259",
+      "name": "酷",
+      "font_class": "ku",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "33820260",
+      "name": "生病",
+      "font_class": "shengbing",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "33820261",
+      "name": "疑惑",
+      "font_class": "yihuo",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "33820262",
+      "name": "惊吓",
+      "font_class": "jingxia",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "33820263",
+      "name": "发呆",
+      "font_class": "fadai",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "33820264",
+      "name": "吐舌",
+      "font_class": "tushe",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "33820265",
+      "name": "天使",
+      "font_class": "tianshi",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "33820266",
+      "name": "微笑",
+      "font_class": "weixiao",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "33820267",
+      "name": "去世",
+      "font_class": "qushi",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "33820268",
+      "name": "哭",
+      "font_class": "ku1",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "33820269",
+      "name": "笑哭",
+      "font_class": "xiaoku",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "8106211",
+      "name": "camera",
+      "font_class": "camera",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    }
+  ]
+}

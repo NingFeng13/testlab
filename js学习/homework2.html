@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        /*  var num = 0;
+         var action;
+         var add, sub;
+         var quit = false;
+         do {
+             action = prompt('1.存钱' + '\n' + '2.取钱' + '\n' + '3.查询余额' + '\n' + '4.退出');
+             switch (action) {
+                 case '1':
+                     add = prompt('存款数额');
+                     num += parseFloat(add);
+                     alert('您的余额还有' + num + '元');
+                     break;
+                 case '2':
+                     sub = prompt('取款数额');
+                     num -= parseFloat(sub);
+                     alert('您的余额还有' + num + '元');
+                     break;
+                 case '3':
+                     alert('您的余额还有' + num + '元');
+                     break;
+                 default: quit = true; break;
+             }
+         } while (!quit) */
+
+
+        //求1-100之间的累加值，要求跳过3的倍数
+        var i = 0;
+        var num = 0;
+        while (i < 100) {
+            i++;
+            if (i % 10 == 3) {
+                continue;
+            }
+            num += i;
+        }
+        alert(num);
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

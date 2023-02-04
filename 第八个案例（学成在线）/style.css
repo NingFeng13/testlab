@@ -1,0 +1,109 @@
+* {
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.body {
+    background-color: #f3f5f7;
+    list-style: none;
+}
+
+.w {
+    margin: auto;
+    width: 1200px;
+}
+
+.top {
+    /* background-color:#f3f5f7; */
+    height: 45px;
+    margin: 30px auto;
+}
+
+
+.top ul li {
+    float: left;
+    list-style: none;
+    padding-left: 50px;
+    line-height: 45px;
+    font-size: 18px;
+}
+
+.top ul li a {
+    text-decoration: none;
+    color: #050505;
+}
+
+.top ul li :hover {
+    color: #1c036c;
+    border-bottom: 1px solid #1c036c;
+}
+
+.top img {
+    float: left;
+}
+
+.search {
+    float: left;
+    margin-left: 95px;
+    height: 45px;
+    border: 2px #00a4ff;
+}
+
+.top .search input {
+    float: left;
+    width: 360px;
+    height: 42px;
+    padding-left: 20px;
+}
+
+.top .search button {
+    float: left;
+    width: 50px;
+    height: 45px;
+}
+
+.user {
+    float: left;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.banner {
+    height: 420px;
+    background-color: #1c036c;
+}
+
+.banner .w {
+    height: 420px;
+    background: url(imgs/3.jpg) no-repeat top center;
+    /* background-color: pink; */
+}
+
+
+.banner .w .list {
+    float: left;
+    height: 420px;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 190px;
+}
+
+.banner .w .list ul li {
+    margin-top: 25px;
+    margin-left: 20px;
+    height: 45px;
+    line-height: 45px;
+}
+
+.banner .w .list ul li a span {
+    float: right;
+}
+
+.banner .w .list ul li a {
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.banner .w .list ul li a:hover {
+    color: #00a4ff;
+}

@@ -1,0 +1,19 @@
+<html> </html> 双标签（大部分）
+<br/> 单标签（少）
+
+<html> 
+	<head></head>
+</html>
+
+包含关系和并列标签
+<h1></h1> 2345 标题标签
+<br/> 换行标签
+<p></p> 段落标签
+<strong></strong> 加粗（推荐）
+<b></b> 加粗
+<em></em> 倾斜
+<del></del> <s></s> 删除线
+<ins></ins> <u></u>下划线
+
+<div>盒子标签（division）大盒子</div>
+<span>盒子标签（span）小盒子</span>

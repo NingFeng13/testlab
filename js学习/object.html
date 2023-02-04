@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        // var obj = {
+        //     age: 18,
+        //     name: 'keke',
+        //     wawa: function () {
+        //         console.log('wawa');
+        //     }
+        // }
+        // console.log(obj.age);
+        // console.log(obj['age']);
+        // obj.wawa();
+        //MATH对象
+        // var arr = [1, 3, 5, 9, 2];
+        // console.log(Math.max(...arr));
+        // console.log(Math.max(1, 3, 5, 7, 9, 56, 28));
+        // console.log(Math.max(1, 3, 5, 7, 'y', 56, 28));
+        // console.log(Math.max());
+        //对象构造方法
+        function Mingxin(name, age, sex, song) {
+            this.name = name,
+                this.age = age,
+                this.sex = sex
+            this.sing = function () {
+                console.log(song);
+            }
+        }
+        var liudehua = new Mingxin('liudehua', 18, 'man', '冰雨');
+        var guofucheng = new Mingxin('guofucheng', 19, 'woman', '左手右手');
+        for (var k in liudehua) {
+            console.log(k);
+            console.log(liudehua[k]);
+            console.log(liudehua.k);
+        }
+        console.log('================');
+        console.log(liudehua.age);
+        console.log(liudehua.name);
+        console.log(liudehua.sex);
+        console.log('================');
+        for (var i in guofucheng) {
+            console.log(i);
+        }
+
+
+
+
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

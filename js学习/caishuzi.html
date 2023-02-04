@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function getRandomInt(min, max) {
+            min = Math.ceil(min);
+            max = Math.floor(max);
+            return Math.floor(Math.random() * (max - min + 1)) + min
+
+        }
+        var rad = getRandomInt(0, 100);
+        do {
+            var guess = prompt('请猜一个0-100之间的整数');
+            if (guess < rad) alert('偏小');
+            else if (guess > rad) alert('偏大');
+            else if (guess == rad) { alert('恭喜你猜对了'); break; }
+
+        } while (true)
+
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
